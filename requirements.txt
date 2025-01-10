@@ -6,7 +6,7 @@ transformers
 torch
 torchvision
 torchaudio
-tensorflow-macos
+tensorflow
 modelscope
 openai
 addict
@@ -18,3 +18,4 @@ sortedcontainers
 gradio
 azure-ai-documentintelligence
 python-dotenv
+kornia
